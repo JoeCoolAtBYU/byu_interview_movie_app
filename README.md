@@ -1,3 +1,4 @@
+# byu_interview_movie_app
 To run this app, first clone the project to your local computer.
 
 Then:
