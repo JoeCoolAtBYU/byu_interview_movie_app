@@ -1,3 +1,7 @@
+To run this app, first clone the project to your local computer.
+
+Then:
+
 To Run the webservice first go to a terminal window and 
 browse to this directory ../webservice and run the code below
 
