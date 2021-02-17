@@ -1,6 +1,6 @@
 .DS_Store
-/byu_frontend/node_modules
-/byu_frontend/dist
+/webapp/node_modules
+/webapp/dist
 
 
 # local env files
@@ -22,4 +22,4 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-/byu_backend/node_modules/
+/webservice/node_modules/
